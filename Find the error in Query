@@ -1,0 +1,17 @@
+Find the error in Query
+Spot the Error in following query
+Select count(),user_name from Users;
+You can refer to the dataset here.
+
+Select the correct option below.
+No Error
+Group By Clause is not specified
+Column name not specified in count function 
+No such column “user_name”
+
+
+Well done, it’s correct!
+
+Correct Answer:
+
+Column name not specified in count function 
