@@ -1,0 +1,15 @@
+Find the output of SQL Query
+Determine the output of following Query
+select MAX(rating) from Users;
+You will have to find the output of this query based on the given dataset.
+
+You can refer to the dataset here.
+
+Select the correct option below.
+3017
+3012
+4120
+1450
+
+solution:
+3017
